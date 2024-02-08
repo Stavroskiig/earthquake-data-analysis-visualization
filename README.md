@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on retrieving, analyzing, and visualizing earthquake data from the Institute of Technical Seismology and Anti-Seismic Constructions (ITSAK) database. The data covers the period from 2013 to 2023 and is processed using Python and Pandas for insightful data analysis and visualization. The project also includes the creation of interactive maps using Folium to display earthquake locations and magnitudes.
+This project focuses on retrieving, analyzing, and visualizing earthquake data from the Institute of Technical Seismology and Anti-Seismic Constructions (ITSAK) [database](https://shakemaps.itsak.gr/index.html). The data covers the period from 2013 to 2023 and is processed using Python and Pandas for insightful data analysis and visualization. The project also includes the creation of interactive maps using Folium to display earthquake locations and magnitudes.
 
 ## Requirements
 
