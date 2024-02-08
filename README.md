@@ -16,7 +16,7 @@ This project focuses on retrieving, analyzing, and visualizing earthquake data f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/earthquake-data-analysis.git
+   git clone https://github.com/Stavroskiig/earthquake-data-analysis-visualization.git
    ```
 
 2. Install the required dependencies:
